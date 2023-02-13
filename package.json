@@ -1,0 +1,14 @@
+{
+  "name": "CypressAutomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  },
+  "scripts": {
+    "debug": "npx cypress run --spec cypress/integration/examples/TestXML.js",
+    "test": "npx cypress run",
+    "dashboardTest": "npm run test -- --record --key 56fd2d8a-7e4e-4167-81e3-31bc727b772d"
+  }
+}

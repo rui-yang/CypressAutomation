@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<values>
+  <number key="chapter_1.numberinput1.value" last-changed-datetime = "2021-06-15T11:34:08+02:00" value-author-id = "cloud(#ADMIN_ID#)">43</number>
+  <number key="chapter_1.calculation1.value" last-changed-datetime = "2021-06-15T11:34:08+02:00" value-author-id = "cloud(#ADMIN_ID#)">129</number>
+  <bool key="chapter_1.boolinput1.value" last-changed-datetime = "2021-06-15T11:35:25+02:00" value-author-id = "cloud(#ADMIN_ID#)">true</bool>
+  <string key="chapter_1.label1.value" last-changed-datetime = "2021-06-15T11:32:51+02:00" value-author-id = "cloud(#ADMIN_ID#)">Checklist Customer</string>
+  <datetime key="chapter_1.dateinput1.value" last-changed-datetime = "2021-06-15T11:35:02+02:00" value-author-id = "cloud(#ADMIN_ID#)">2021-02-11T02:11:13+00:00</datetime>
+  <number key="chapter_2.dropdown1.value" last-changed-datetime = "2021-06-15T11:35:48+02:00" value-author-id = "cloud(#ADMIN_ID#)">0</number>
+  <number key="chapter_2.stateElement1.value" last-changed-datetime = "2021-06-15T11:35:54+02:00" value-author-id = "cloud(#ADMIN_ID#)">0</number>
+  <signature key="chapter_2.signature1.value" last-changed-datetime = "2021-06-15T11:36:15+02:00" value-author-id = "cloud(#ADMIN_ID#)">#SIGNATURE_FILENAME#</signature>
+  <string key="chapter_2.signature1.description" last-changed-datetime = "2021-06-15T11:36:15+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 1</string>
+  <string key="chapter_1.textinput1.value" last-changed-datetime = "2021-06-15T11:34:02+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 1</string>
+  <string key="chapter_2.stateElement1.comment" last-changed-datetime = "2021-06-15T13:59:09+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 1</string>
+  <object-warehouse key="objectPicker32.value" tID="chapter_6.table3" tRow="1" last-changed-datetime = "2021-06-15T11:47:45+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#WAREHOUSE_ID_RM#)</object-warehouse>
+  <number key="numberinput4.value" tID="chapter_4.table1" tRow="1" last-changed-datetime = "2021-06-15T11:38:26+02:00" value-author-id = "cloud(#ADMIN_ID#)">44</number>
+  <datetime key="dateinput4.value" tID="chapter_4.table1" tRow="1" last-changed-datetime = "2021-06-15T11:40:06+02:00" value-author-id = "cloud(#ADMIN_ID#)">2021-03-12T03:12:33+00:00</datetime>
+  <number key="dropdown3.value" tID="chapter_5.table2" tRow="1" last-changed-datetime = "2021-06-15T11:41:02+02:00" value-author-id = "cloud(#ADMIN_ID#)">1</number>
+  <number key="stateElement3.value" tID="chapter_5.table2" tRow="1" last-changed-datetime = "2021-06-15T11:41:18+02:00" value-author-id = "cloud(#ADMIN_ID#)">1</number>
+  <signature key="signature3.value" tID="chapter_5.table2" tRow="1" last-changed-datetime = "2021-06-15T11:41:48+02:00" value-author-id = "cloud(#ADMIN_ID#)">#SIGNATURE_FILENAME#</signature>
+  <number key="calculation4.value" tID="chapter_4.table1" tRow="1" last-changed-datetime = "2021-06-15T11:38:26+02:00" value-author-id = "cloud(#ADMIN_ID#)">132</number>
+  <bool key="boolinput4.value" tID="chapter_4.table1" tRow="1" last-changed-datetime = "2021-06-15T11:37:14+02:00" value-author-id = "cloud(#ADMIN_ID#)">false</bool>
+  <string key="label4.value" tID="chapter_4.table1" tRow="1" last-changed-datetime = "2021-06-15T11:37:14+02:00" value-author-id = "cloud(#ADMIN_ID#)">Checklist Customer</string>
+  <object-person key="objectPicker22.value" tID="chapter_6.table3" tRow="1" last-changed-datetime = "2021-06-15T11:37:20+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ADMIN_ID#)</object-person>
+  <string key="textinput2.value" tID="chapter_4.table1" tRow="1" last-changed-datetime = "2021-06-15T11:38:04+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 2</string>
+  <object-businesspartner key="objectPicker34.value" tID="chapter_5.table2" tRow="1" last-changed-datetime = "2021-06-15T11:54:53+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#BP_ID_1#)</object-businesspartner>
+  <string key="signature3.description" tID="chapter_5.table2" tRow="0" last-changed-datetime = "2021-06-15T11:41:36+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 1</string>
+  <string key="signature4.description" tID="chapter_5.table2" last-changed-datetime = "2021-06-15T11:41:59+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 3</string>
+  <object-contact key="objectPicker24.value" tID="chapter_6.table3" tRow="1" last-changed-datetime = "2021-06-15T11:45:02+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#CONTACT_ID_2#)</object-contact>
+  <object-item key="objectPicker28.value" tID="chapter_6.table3" tRow="1" last-changed-datetime = "2021-06-15T11:45:41+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ITEM_ID_2#)</object-item>
+  <object-equipment key="objectPicker30.value" tID="chapter_6.table3" tRow="1" last-changed-datetime = "2021-06-15T11:47:29+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#EQ_ID_2#)</object-equipment>
+  <object-Person key="objectPicker20.value" tID="chapter_6.table3" tRow="1" last-changed-datetime = "2021-06-15T14:00:14+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#PERSON_ID_2#)</object-Person>
+  <object-Address key="objectPicker26.value" tID="chapter_6.table3" tRow="1" last-changed-datetime = "2021-06-15T14:00:21+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ADDRESS_ID_2#)</object-Address>
+  <string key="stateElement3.comment" tID="chapter_5.table2" tRow="1" last-changed-datetime = "2021-06-15T13:59:47+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 2</string>
+  <object-item key="objectPicker29.value" tID="chapter_6.table3" last-changed-datetime = "2021-06-15T11:45:34+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ITEM_ID_1#)</object-item>
+  <object-equipment key="objectPicker30.value" tID="chapter_6.table3" tRow="0" last-changed-datetime = "2021-06-15T11:47:06+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#EQ_ID_1#)</object-equipment>
+  <object-equipment key="objectPicker31.value" tID="chapter_6.table3" last-changed-datetime = "2021-06-15T11:47:22+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#EQ_ID_1#)</object-equipment>
+  <object-warehouse key="objectPicker32.value" tID="chapter_6.table3" tRow="0" last-changed-datetime = "2021-06-15T11:47:43+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#WAREHOUSE_ID_OWN#)</object-warehouse>
+  <object-warehouse key="objectPicker33.value" tID="chapter_6.table3" last-changed-datetime = "2021-06-15T11:47:47+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#WAREHOUSE_ID_OWN#)</object-warehouse>
+  <bool key="boolinput4.value" tID="chapter_4.table1" tRow="0" last-changed-datetime = "2021-06-15T11:40:37+02:00" value-author-id = "cloud(#ADMIN_ID#)">true</bool>
+  <number key="calculation5.value" tID="chapter_4.table1" last-changed-datetime = "2021-06-15T11:38:26+02:00" value-author-id = "cloud(#ADMIN_ID#)">87</number>
+  <number key="numberinput5.value" tID="chapter_4.table1" last-changed-datetime = "2021-06-15T11:38:28+02:00" value-author-id = "cloud(#ADMIN_ID#)">45</number>
+  <datetime key="dateinput4.value" tID="chapter_4.table1" tRow="0" last-changed-datetime = "2021-06-15T11:39:22+02:00" value-author-id = "cloud(#ADMIN_ID#)">2021-02-11T02:11:28+00:00</datetime>
+  <datetime key="dateinput5.value" tID="chapter_4.table1" last-changed-datetime = "2021-06-15T11:40:30+02:00" value-author-id = "cloud(#ADMIN_ID#)">2021-04-13T04:13:08+01:00</datetime>
+  <number key="dropdown3.value" tID="chapter_5.table2" tRow="0" last-changed-datetime = "2021-06-15T11:41:00+02:00" value-author-id = "cloud(#ADMIN_ID#)">0</number>
+  <number key="dropdown4.value" tID="chapter_5.table2" last-changed-datetime = "2021-06-15T11:41:03+02:00" value-author-id = "cloud(#ADMIN_ID#)">2</number>
+  <number key="stateElement3.value" tID="chapter_5.table2" tRow="0" last-changed-datetime = "2021-06-15T11:41:10+02:00" value-author-id = "cloud(#ADMIN_ID#)">0</number>
+  <number key="stateElement4.value" tID="chapter_5.table2" last-changed-datetime = "2021-06-15T11:41:15+02:00" value-author-id = "cloud(#ADMIN_ID#)">0</number>
+  <signature key="signature3.value" tID="chapter_5.table2" tRow="0" last-changed-datetime = "2021-06-15T11:41:36+02:00" value-author-id = "cloud(#ADMIN_ID#)">#SIGNATURE_FILENAME#</signature>
+  <object-contact key="objectPicker24.value" tID="chapter_6.table3" tRow="0" last-changed-datetime = "2021-06-15T11:44:47+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#CONTACT_ID_1#)</object-contact>
+  <object-contact key="objectPicker25.value" tID="chapter_6.table3" last-changed-datetime = "2021-06-15T11:45:05+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#CONTACT_ID_1#)</object-contact>
+  <object-item key="objectPicker28.value" tID="chapter_6.table3" tRow="0" last-changed-datetime = "2021-06-15T11:45:28+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ITEM_ID_1#)</object-item>
+  <object-businesspartner key="objectPicker34.value" tID="chapter_5.table2" tRow="0" last-changed-datetime = "2021-06-15T11:54:37+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#BP_ID_2#)</object-businesspartner>
+  <signature key="signature4.value" tID="chapter_5.table2" last-changed-datetime = "2021-06-15T11:41:59+02:00" value-author-id = "cloud(#ADMIN_ID#)">#SIGNATURE_FILENAME#</signature>
+  <string key="label4.value" tID="chapter_4.table1" tRow="0" last-changed-datetime = "2021-06-15T11:32:51+02:00" value-author-id = "cloud(#ADMIN_ID#)">Checklist Customer</string>
+  <object-person key="objectPicker23.value" tID="chapter_6.table3" last-changed-datetime = "2021-06-15T11:36:54+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ADMIN_ID#)</object-person>
+  <string key="textinput2.value" tID="chapter_4.table1" tRow="0" last-changed-datetime = "2021-06-15T11:37:57+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 1</string>
+  <string key="textinput13.value" tID="chapter_4.table1" last-changed-datetime = "2021-06-15T11:38:16+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 3</string>
+  <number key="numberinput4.value" tID="chapter_4.table1" tRow="0" last-changed-datetime = "2021-06-15T11:38:24+02:00" value-author-id = "cloud(#ADMIN_ID#)">43</number>
+  <number key="calculation4.value" tID="chapter_4.table1" tRow="0" last-changed-datetime = "2021-06-15T11:38:24+02:00" value-author-id = "cloud(#ADMIN_ID#)">129</number>
+  <object-person key="objectPicker22.value" tID="chapter_6.table3" tRow="0" last-changed-datetime = "2021-06-15T11:36:54+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ADMIN_ID#)</object-person>
+  <bool key="boolinput5.value" tID="chapter_4.table1" last-changed-datetime = "2021-06-15T11:40:38+02:00" value-author-id = "cloud(#ADMIN_ID#)">true</bool>
+  <string key="label5.value" tID="chapter_4.table1" last-changed-datetime = "2021-06-15T11:32:51+02:00" value-author-id = "cloud(#ADMIN_ID#)">Checklist Customer</string>
+  <object-businesspartner key="objectPicker35.value" tID="chapter_5.table2" last-changed-datetime = "2021-06-15T11:55:00+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#BP_ID_2#)</object-businesspartner>
+  <string key="stateElement3.comment" tID="chapter_5.table2" tRow="0" last-changed-datetime = "2021-06-15T13:59:38+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 1</string>
+  <string key="stateElement4.comment" tID="chapter_5.table2" last-changed-datetime = "2021-06-15T13:59:56+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 3</string>
+  <object-attachment key="textinput2.image" tID="chapter_4.table1" tRow="0" last-changed-datetime = "2021-06-15T11:32:51+02:00" value-author-id = "cloud(#ADMIN_ID#)"/>
+  <object-attachment key="dropdown3.image" tID="chapter_5.table2" tRow="0" last-changed-datetime = "2021-06-15T11:32:51+02:00" value-author-id = "cloud(#ADMIN_ID#)"/>
+  <object-attachment key="objectPicker20.image" tID="chapter_6.table3" tRow="0" last-changed-datetime = "2021-06-15T11:32:51+02:00" value-author-id = "cloud(#ADMIN_ID#)"/>
+  <object-attachment key="attachmentPicker3.image" tID="chapter_5.table2" tRow="0" attachmentPickerIndex = "0">#ATTACHMENT_FILENAME#</object-attachment>
+  <object-attachment key="attachmentPicker4.image" tID="chapter_5.table2" attachmentPickerIndex = "0">#ATTACHMENT_FILENAME#</object-attachment>
+  <string key="signature3.description" tID="chapter_5.table2" tRow="1" last-changed-datetime = "2021-06-15T11:41:48+02:00" value-author-id = "cloud(#ADMIN_ID#)">duplication 2</string>
+  <object-Person key="objectPicker20.value" tID="chapter_6.table3" tRow="0" last-changed-datetime = "2021-06-15T14:00:11+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#PERSON_ID_1#)</object-Person>
+  <object-Person key="objectPicker21.value" tID="chapter_6.table3" last-changed-datetime = "2021-06-15T14:00:16+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#PERSON_ID_1#)</object-Person>
+  <object-Address key="objectPicker26.value" tID="chapter_6.table3" tRow="0" last-changed-datetime = "2021-06-15T14:00:19+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ADDRESS_ID_1#)</object-Address>
+  <object-Address key="objectPicker27.value" tID="chapter_6.table3" last-changed-datetime = "2021-06-15T14:00:23+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ADDRESS_ID_1#)</object-Address>
+  <object-attachment key="textinput2.image" tID="chapter_4.table1" tRow="1" last-changed-datetime = "2021-06-15T11:37:14+02:00" value-author-id = "cloud(#ADMIN_ID#)"/>
+  <object-attachment key="dropdown3.image" tID="chapter_5.table2" tRow="1" last-changed-datetime = "2021-06-15T11:37:18+02:00" value-author-id = "cloud(#ADMIN_ID#)"/>
+  <object-attachment key="objectPicker20.image" tID="chapter_6.table3" tRow="1" last-changed-datetime = "2021-06-15T11:37:20+02:00" value-author-id = "cloud(#ADMIN_ID#)"/>
+  <object-attachment key="attachmentPicker3.image" tID="chapter_5.table2" tRow="1" attachmentPickerIndex = "0">#ATTACHMENT_FILENAME#</object-attachment>
+  <object-person key="chapter_3.objectPicker3.value" last-changed-datetime = "2021-06-15T12:38:18+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ADMIN_ID#)</object-person>
+  <object-businesspartner key="chapter_3.objectPicker1.value" last-changed-datetime = "2021-06-15T12:39:00+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#BP_ID_2#)</object-businesspartner>
+  <object-contact key="chapter_3.objectPicker4.value" last-changed-datetime = "2021-06-15T12:39:18+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#CONTACT_ID_1#)</object-contact>
+  <object-item key="chapter_3.objectPicker6.value" last-changed-datetime = "2021-06-15T12:39:35+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ITEM_ID_1#)</object-item>
+  <object-equipment key="chapter_3.objectPicker7.value" last-changed-datetime = "2021-06-15T12:39:45+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#EQ_ID_1#)</object-equipment>
+  <object-warehouse key="chapter_3.objectPicker8.value" last-changed-datetime = "2021-06-15T12:39:49+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#WAREHOUSE_ID_OWN#)</object-warehouse>
+  <object-attachment key="chapter_2.attachmentPicker1.image" attachmentPickerIndex = "0">#ATTACHMENT_FILENAME#</object-attachment>
+  <object-Person key="chapter_3.objectPicker2.value" last-changed-datetime = "2021-06-15T14:05:16+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#PERSON_ID_1#)</object-Person>
+  <object-Address key="chapter_3.objectPicker5.value" last-changed-datetime = "2021-06-15T14:05:18+02:00" value-author-id = "cloud(#ADMIN_ID#)">cloud(#ADDRESS_ID_1#)</object-Address>
+</values>
